@@ -1,4 +1,4 @@
-Daily data structure challenge! For the month of October...
+Some data structures I wanted to implement in python.
 
 You can find the implementations in /files.
 
